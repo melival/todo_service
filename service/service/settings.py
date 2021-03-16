@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     # Add apps
     'rest_framework',
     # My apps
-
+    'users',
 ]
 
 MIDDLEWARE = [
